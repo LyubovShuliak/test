@@ -1,0 +1,34 @@
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+
+.wrapper {
+  margin: 20px 0;
+  background-color: lightgray;
+  padding: 20px;
+}
+
+.button-handler {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 10px 15px;
+  border-radius: 4px;
+}
+
+.add-btn {
+  background-color: aqua;
+}
+
+.text-input-filed {
+  width: 100%;
+  max-width: 100%;
+}
+
+.output-list {
+  background-color: #fff;
+}
